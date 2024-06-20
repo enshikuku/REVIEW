@@ -57,7 +57,8 @@ The CALASCHEDULE repository is a personal project for creating a scheduling appl
 ---
 ## Summary
 
-The past week was productive, with significant progress in TypeScript and Angular learning, and the development of a personal scheduling project. Additionally, I collaborated with [Geoffrey Githinji](mailto:geoffery.gathingiri@agilebiz.co.ke) on preparing a concept paper to embed an audit module into Business Central, as per the assignment from the Chief Operations Officer. These achievements have deepened my understanding of these technologies and equipped me with practical skills for future projects.
+The past week was productive, with significant progress in learning TypeScript and Angular, as well as the development of a personal scheduling project. Additionally, I collaborated with [Geoffrey Githinji](mailto:geoffery.gathingiri@agilebiz.co.ke) to prepare a concept paper for embedding an audit module into Business Central, as assigned by the Chief Operations Officer. These achievements have deepened my understanding of these technologies and equipped me with practical skills for future projects.
+Today, I was assigned a new task to review section 1.9.1 of the CISA manual and determine whether it aligns with our concept paper.
 
 ---
 
