@@ -64,5 +64,4 @@ The past week was productive, with significant progress in TypeScript and Angula
 Feel free to reach out if you need more information on any of the mentioned points.
 
 Best regards,
-**[E.N. Shikuku](https://github.com/enshikuku)**
-emmanuel.shikuku@agilebiz.co.ke
+**[E.N. Shikuku](mailto:enshikuku@gmail.com)**
